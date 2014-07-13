@@ -1,2 +1,2 @@
-Telerik-Akademy-Homework-C-
+Telerik Akademy Homework C#
 ===========================
