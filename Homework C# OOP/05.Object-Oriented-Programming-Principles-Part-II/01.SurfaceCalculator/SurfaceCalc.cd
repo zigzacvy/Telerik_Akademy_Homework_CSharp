@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_01.SurfaceCalculator.Shape">
+    <Position X="14.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAACABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>00.00.Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.SurfaceCalculator.Rectangle">
+    <Position X="14.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>00.01.Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.SurfaceCalculator.Triangle">
+    <Position X="16.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>00.02.Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.SurfaceCalculator.Circle">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>00.03.Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.SurfaceCalculator.TestProgram" Collapsed="true">
+    <Position X="19.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>TestProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
