@@ -2,7 +2,7 @@
 
 ##Homework C# Part One
 
-####Introduction-to-PFamiliarize yourself with:
+####Introduction-to-Programming
 1. Create, compile and run a “Hello C#” console application.
 2. Modify the application to print your name.
 3. Write a program to print the numbers 1, 101 and 1001.
