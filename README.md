@@ -123,11 +123,22 @@ Each member of the Fibonacci sequence (except the first two) is a sum of the pre
 
 ####Strings-and-Text-Processing
 
+##Homework C# OOP
+
+####Defining-Classes-Part-I-Constructors-Properties
+
+####Defining-Classes-Part-II-Static-Members-Generics
+
+####Extension-Methods-Delegates-Lambda-LINQ
+
+####Object-Oriented-Programming-Principles-Part-I
+
+####Object-Oriented-Programming-Principles-Part-II
+
+####Common-Type-System
+
+
 To be continued!
-
-
-
-
 
 
 
