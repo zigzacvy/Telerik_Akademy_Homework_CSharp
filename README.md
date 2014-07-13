@@ -2,7 +2,7 @@
 
 ##Homework C# Part One
 
-####Introduction-to-Programming:
+####Introduction-to-Programming
 1. Create, compile and run a “Hello C#” console application.
 2. Modify the application to print your name.
 3. Write a program to print the numbers 1, 101 and 1001.
@@ -14,7 +14,7 @@
 9. Describe the difference between C# and .NET Framework.
 10. Write a program to read your age from the console and print how old you will be after 10 years.
  
-####Primitive-Data-Types-and-Variables:
+####Primitive-Data-Types-and-Variables
 1. Declare five variables choosing for each of them the most appropriate of the types byte, sbyte, short, ushort, int, uint, long, ulong to represent the following values: 52130, -115, 4825932, 97, -10000.
 2. Which of the following values can be assigned to a variable of type float and which to a variable of type double: 34.567839023, 12.345, 8923.1234857, 3456.091?
 3. Write a program that safely compares floating-point numbers with precision of 0.000001. Examples:
