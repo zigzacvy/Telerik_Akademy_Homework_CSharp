@@ -13,14 +13,14 @@ namespace _08.TheseSenteces
             string[] testString = @"We are living in a yellow submarine. We don't have anything else.
 Inside the submarine is very tight. So we are drinking all the day.
 We will move out of it in 5 days.".Split('.');
-            string seatchWord = "in";
+            string searchWord = "in";
            
             for (int i = 0; i < testString.Length; i++)
             {
                 string[] sentence = testString[i].Split(' ');
                 for (int j = 0; j < sentence.Length; j++)
                 {
-                    if (sentence[j] == seatchWord) Console.Write(testString[i]);
+                    if (sentence[j] == searchWord) Console.Write(testString[i]);
                 }
             }
 
